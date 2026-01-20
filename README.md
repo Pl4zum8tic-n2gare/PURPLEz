@@ -13,7 +13,7 @@
  <img src="https://64.media.tumblr.com/179555399e5f4160afc504cf26077db0/353c748945f42487-ea/s75x75_c1/c8fa16ace80cf8488a84eee3dfe1d26675ff91e3.gifv"/> <img src="https://64.media.tumblr.com/8c79cbca1acf509d059594f1017d229e/353c748945f42487-26/s75x75_c1/0b75e223c45f215b63de271a8405eec3c6480fc0.gifv"/> <img src="https://64.media.tumblr.com/da96cacb30a38ac6256f4e7a675ca069/353c748945f42487-3e/s75x75_c1/138a0e102061d24891900e1075f6eb8266ebaab8.gifv"/>  <div/> 
 <!-- you can edit anything below this!-->
  <table>
-furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina is
+furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina
   <table>
 <!-- you can edit anything above this!-->
 

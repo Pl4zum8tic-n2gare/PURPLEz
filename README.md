@@ -30,7 +30,7 @@ furina is nice and purple furina is nice and purple furina is nice and purple fu
   <img src="https://64.media.tumblr.com/6f6ad7998e76d556936cd91882f43dd0/634478afc53407d6-b5/s100x200/1cae2e2bf50ff1127620eeec92ee1716475200d6.pnj"/>
   <img src= "https://64.media.tumblr.com/aeb1c9291d0e0349e8006290fee87e35/21914ddc7f3548dd-07/s75x75_c1/42a581cfb56d65d870ed0c53576345b7de9ed6b3.pnj"/>
   <table>
-  furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina
+  furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina is nice and purple furina
   <table>
 <!-- you can edit anything above this!-->
   
